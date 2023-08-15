@@ -1,2 +1,3 @@
-# Increment
-Study Algorithm
+# Study Algorithm
+
+Small Increments change our life trajectory 💡
